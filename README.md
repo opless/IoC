@@ -19,6 +19,8 @@ LoC at initial commit to github:
 
 Yes, a fully functional IoC framework in under 600 lines of code.
 
+Yes, I *am* including the .csproj ;)
+
 Assume MIT License.
 
 Enjoy.
